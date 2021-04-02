@@ -1,4 +1,4 @@
-#Sample result
+# Sample result
 ```
 Please guess a number between 1 and 100
 Your guess: 50
